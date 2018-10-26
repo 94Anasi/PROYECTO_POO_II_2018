@@ -12,6 +12,7 @@ package com.aanasi.amazonviewer.vista;
 public class AplicacionMain {
     public static void main(String[] args) {
         System.out.println("HOLA MUNDO");
+        System.out.println("BIENVENIDOS A POO II");
     }
     
 }
